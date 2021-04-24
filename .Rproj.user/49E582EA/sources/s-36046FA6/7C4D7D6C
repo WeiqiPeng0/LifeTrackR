@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1619243884667.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3718617489",
+    "id" : "7C4D7D6C",
+    "lastKnownWriteTime" : 1619246101,
+    "last_content_update" : 1619246101607,
+    "path" : "C:/Users/ricky/Desktop/LifeTrakR/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "2,59",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

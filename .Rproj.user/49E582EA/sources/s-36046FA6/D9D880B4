@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1619243839244.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4184785285",
+    "id" : "D9D880B4",
+    "lastKnownWriteTime" : 1619249050,
+    "last_content_update" : 1619249059876,
+    "path" : "C:/Users/ricky/Desktop/LifeTrakR/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+        "cursorPosition" : "14,18",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

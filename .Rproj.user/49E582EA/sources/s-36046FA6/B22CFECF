@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1619243846430.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B22CFECF",
+    "lastKnownWriteTime" : 1605601472,
+    "last_content_update" : 1605601472,
+    "path" : "C:/Users/ricky/Desktop/DTrakR/DeathTrackR/app.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "200,27",
+        "scrollLine" : "172"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
