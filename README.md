@@ -1,4 +1,4 @@
-# LifeTrackR
+# FFUTrackR
 On-going project (Croker Lab)
 
 USE:
